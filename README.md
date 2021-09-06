@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Yan Lipu</h1>
-<h3 align="center">I am 95% Computer Engineer and a Front End Jr Developer</h3>
+<h3 align="center">I am 95% Computer Engineer and a Junior Front End Developer</h3>
 
 - 🔭 I’m currently IT Trainee on [Pax Primavera](http://paxprimavera.com.br/)
 
