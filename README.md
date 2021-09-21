@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Yan Lipu</h1>
-<img align="right" alt"yan" src="https://user-images.githubusercontent.com/54294970/134106373-0e599b71-2bac-44d9-9a7a-d7ba41c38ec4.png" height="320em">
+<img align="right" alt"yan" src="https://user-images.githubusercontent.com/54294970/134259423-f34e07d1-a380-4e3c-8d13-1d6e21e4b364.png" height="320em">
 <h3 align="center">I am 95% Computer Engineer and a Junior Front End Developer</h3>
 
 - 🔭 I’m currently IT Trainee on [Pax Primavera](http://paxprimavera.com.br/)
