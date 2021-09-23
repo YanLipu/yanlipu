@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently IT Trainee on [Pax Primavera](http://paxprimavera.com.br/)
 
-- 🌱 I’m currently learning **Vue.js** and **Adonis**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at (on these github)
 
