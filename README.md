@@ -2,15 +2,15 @@
 <img align="right" alt"yan" src="https://user-images.githubusercontent.com/54294970/134259423-f34e07d1-a380-4e3c-8d13-1d6e21e4b364.png" height="320em">
 <h3 align="center">I am 95% Computer Engineer and a Junior Front End Developer</h3>
 
-- 🔭 I’m currently Front-end Developer at [Port Louis](https://www.portlouis.inf.br/)
+- 🔭 I’m currently Front-end Developer at [Port Louis](https://www.portlouis.inf.br/).
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Vue.js**.
 
-- 👨‍💻 All of my projects are available at (on these github)
+- 👨‍💻 All of my projects are available at (on these github).
 
-- 📫 How to reach me **jylipu@hotmail.com**
+- 📫 How to reach me **jylipu@hotmail.com**.
 
-- ⚡ Fun fact **I learned to drive in a Ford Verona 1992 at 12 years old**
+- ⚡ Fun fact **I learned to drive in a Ford Verona 1992 at 12 years old**.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
