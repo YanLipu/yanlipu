@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently position is a Front-end Developer at [Port Louis](https://www.portlouis.inf.br/).
 
-- 🌱 I’m currently learning **Vue.js**.
+- 🌱 I’m currently learning and working with **Vue.js**.
 
 - 👨‍💻 All of my projects are available at (on these github).
 
