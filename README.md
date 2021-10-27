@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning and working with **Vue.js(composition-api)**.
 
-- 👨‍💻 All of my projects are available at (on these github).
+- 👨‍💻 All of my projects are available at (these github).
 
 - 📫 How to reach me **jylipu@hotmail.com**.
 
