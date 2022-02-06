@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Front-end Developer at [Port Louis](https://www.portlouis.inf.br/).
 
-- 🌱 I’m currently learning and working with **Vue.js (composition-api)**.
+- 🌱 I’m currently learning and working with **Vue.js**.
 
 - 👨‍💻 All of my projects are available on this github.
 
