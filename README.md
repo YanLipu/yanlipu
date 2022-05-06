@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Front-end Developer at [PortData](https://portdata.tech/).
 
-- 🌱 I’m currently learning and working with **Vue.js**.
+- 🌱 I’m currently learning and working with **Vue.js** and **Node.js**.
 
 - 👨‍💻 All of my projects are available on this github.
 
