@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jylipu@hotmail.com**.
 
-- ⚡ Fun fact **I learned to drive in a Ford Verona 1992 at 12 years old**..
+- ⚡ Fun fact **I learned to drive in a Ford Verona 1992 at 12 years old**.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
