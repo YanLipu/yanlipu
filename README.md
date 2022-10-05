@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Fullstack Developer at [PortData](https://portdata.tech/).
 
-- 🌱 I’m currently learning and working with **Vue.js (2x, 3x)** and **Node.js**.
+- 🌱 I’m currently learning and working with **Vue.js (2x, 3x), AWS, TDD** and **Node.js**.
 
 - 👨‍💻 All of my projects are available on this github.
 
