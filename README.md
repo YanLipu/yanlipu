@@ -2,9 +2,9 @@
 <img align="right" alt"yan" src="https://user-images.githubusercontent.com/54294970/134259423-f34e07d1-a380-4e3c-8d13-1d6e21e4b364.png" height="320em">
 <h3 align="center">Computer Engineer and Software Developer</h3>
 
-- 🔭 I’m currently Fullstack Developer at [PortData](https://portdata.tech/).
+- 🔭 I’m currently Backend Developer at [WeClever](https://weclever.co/en/).
 
-- 🌱 I’m currently learning and working with **Vue.js (2x, 3x), AWS, TDD** and **Node.js**.
+- 🌱 I’m currently learning and working with **Node.js, Typescript, AWS and Serverless Framework**.
 
 - 👨‍💻 All of my projects are available on this github.
 
